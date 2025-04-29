@@ -1,0 +1,4 @@
+LOGIN:
+  AND:
+    INPUT_USUARIO: id=
+    INPUT_SENHA: id=
